@@ -5,3 +5,4 @@
 * lime
 * salt
 ## Instructions
+## Price: 5
