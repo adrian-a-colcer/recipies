@@ -6,4 +6,4 @@
 * salt
 ## Instructions
 ## Price: 5
-* put one avocado into a bowl
+* peel the avocados
